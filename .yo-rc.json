@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.emu.bpm.proxy",
+      "nativeLanguage": "ar-ly"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "bpmProxy",
+    "packageName": "com.emu.bpm.proxy",
+    "packageFolder": "com/emu/bpm/proxy",
+    "serverPort": "8081",
+    "authenticationType": "oauth2",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "consul",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZjZlODI5OWI0ZDNhNGYxYWUxNWUxMjY4MTNkYzgxMGQwOGRiNDk4ZTZiOGFlMTZjNjY1ZWNjMmY5ZTc2MWE1NGE5OTA3NTU4NmJkN2ZlZmQ3NGFjMjczN2ExNmJlMTQ1NGRhZmM3Zjc2NWZhMjc1YzgyNjVjOTg3OTk4ZjdmNDA=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1617091185482,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "ar-ly",
+    "languages": ["ar-ly", "en"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
